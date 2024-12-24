@@ -1,10 +1,17 @@
 {
   "dependencies": {
+    "@expo/metro-runtime": "~3.2.3",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
     "expo": "^51.0.0",
+    "expo-device": "~6.0.2",
+    "expo-location": "~17.0.1",
+    "express": "^4.21.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.5",
-    "react-native-web": "~0.19.6"
+    "react-native-web": "~0.19.6",
+    "socket.io": "^4.8.1"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3"
